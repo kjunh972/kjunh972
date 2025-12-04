@@ -9,10 +9,3 @@
 혼자 성장하는 것보다 함께 성장하는 것을 선호합니다. 제가 아는것을 알려줄 때 오히려 제가 더 많이 배우고 있다는 것을 깨달았습니다. 
 
 지식을 나누는 것이 결국 자신을 더 깊이이해하는 길이라고 생각합니다.
-
-## Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kjunh972&show_icons=true&theme=catppuccin_latte" /> &nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjunh972&layout=compact" />
-</p>
